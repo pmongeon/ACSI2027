@@ -13,20 +13,20 @@
   url = "call-for-papers/"
   weight = 15
 
-#[[main]]
-#  name = "Lieu"
-#  url = "venue/"
-#  weight = 18
+[[main]]
+  name = "Lieu"
+  url = "venue/"
+  weight = 18
 
 #[[main]]
 #  name = "Inscription"
 #  url = "registration/"
 #  weight = 20
 
-[[main]]
-  name = "Programme"
-  url = "program/"
-  weight = 30
+#[[main]]
+#  name = "Programme"
+#  url = "program/"
+#  weight = 30
 
 #[[main]]
 #  name = " Activités pré-congrès"
@@ -46,5 +46,5 @@
 
 [[main]]
   name = "English"
-  url = "https://cais2026.ca"
+  url = "https://cais2027.ca"
   weight = 70

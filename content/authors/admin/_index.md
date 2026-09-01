@@ -26,14 +26,12 @@ social:
 ---
 
 
-## Bienvenue au congrès de l'ACSI 2026
+## Bienvenue au congrès de l'ACSI 2027
 
-L'Association canadienne des sciences de l'information (ACSI/ACSI) invite les participants à soumettre leurs propositions pour sa 54e conférence annuelle, qui se tiendra du 22 au 26 juin 2026. La conférence sera gratuite et ouverte à tous, en ligne, et sera organisée par la School of Information de l'University of British Columbia.
+L'Association canadienne des sciences de l'information (ACSI/ACSI) invite les participants à soumettre leurs propositions pour sa 55e conférence annuelle, qui se tiendra du xx au xx juin 2027. La conférence sera gratuite et ouverte à tous, en ligne, et sera organisée par l'Université de Montréal.
 
-<strong>Appel à communications:</strong>
-Le thème de cette année, « Information et réparation », est axé sur le travail de maintenance et de réparation qui est toujours nécessaire, mais rarement salué, dans les systèmes d'information. L'attention et les ressources des chercheurs sont souvent dirigées vers la nouveauté, la conceptualisation et le design de systèmes et d'interventions innovants.
-Cette tendance risque toutefois de nous faire ignorer les occasions d'apprendre à partir de la vaste quantité de connaissances, de pratiques et d'expertise technique qui entrent dans la surveillance, l'ajustement et la gestion des changements au sein des composants critiques des systèmes d'information à long terme/continus/permanents.
-Nous sommes particulièrement intéressés par les perspectives issues des sciences de l’information sur les pratiques de rejet ou de réutilisation, sur le travail réparateur, et sur les théories de la réparation. Nous invitons des réflexions créatives et ouvertes sur ce qui est réparé et entretenu, ainsi que sur la réparation elle-même en tant que travail informationnel.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla imperdiet quis nulla in tempor. Donec venenatis, ex vitae vulputate pulvinar, ligula quam auctor neque, quis varius felis risus eu nibh. Aenean mauris nulla, laoreet vitae malesuada ac, dictum id nisi. Vivamus vestibulum nunc et tellus dapibus faucibus. In pulvinar sapien ligula, ut facilisis eros tempor at. Nam aliquam metus felis, vel egestas quam cursus et. Aliquam erat volutpat. Cras luctus nibh a dolor tempus, nec porttitor quam rhoncus. Mauris interdum id magna pellentesque maximus. Nam ut imperdiet risus. Vestibulum ut tellus non tortor sagittis interdum. Etiam semper quam felis, at egestas eros ultrices ac. Vivamus rhoncus justo et tellus pulvinar sodales. Nunc purus ante, posuere in eros quis, tincidunt laoreet nisi. 
+
 Comme l’ACSI cherche à être un lieu d’échange pour les sciences de l'information à travers le Canada, notre conférence annuelle développe et soutient la recherche dans les domaines suivants :
 ●	Recherche d'informations et comportement informationnel
 ●	Littératie informationnelle et formation
@@ -52,7 +50,7 @@ Les perspectives diverses (théoriques ou appliquées) ainsi que les méthodolog
 Chaque année, les prix CAIS/ACSI récompensent des travaux exceptionnels issus de la recherche de maîtrise, des leaders émergents, des thèses de doctorat, des réalisations de carrière et des communications de conférences. Les nominations sont maintenant ouvertes! Veuillez consulter la [page des prix CAIS-ACSI](https://cais-acsi.ca/Awards) pour plus d'informations. **La date limite est le mercredi 8 avril à minuit, heure normale de l'Est (HNE)**
 
 ## Dates importantes
-- Date limite de soumission : <strong>~~31 janvier~~ 7 février </strong>
+- Date limite de soumission : <strong>31 janvier</strong>
 - Date limite pour les évaluations par les pairs : 1er mars
 - Notification aux auteurs : 23 mars
 - Date limite des candidatures pour le forum étudiant : 31 mars
@@ -60,9 +58,7 @@ Chaque année, les prix CAIS/ACSI récompensent des travaux exceptionnels issus 
 
 
 ## Comité organisateur
-Julia Bullard<br>
-Melissa Nelson<br>
-Cameron Pierson<br>
+Anton Ninkov, UdeM
 
 
 Pour plus d’informations, contactez-nous à l’adresse suivante : <a href=“mailto:conference@cais-acsi.ca”>conference@cais-acsi.ca</a>.

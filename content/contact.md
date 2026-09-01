@@ -1,6 +1,6 @@
 ---
 title: Contactez-nous 
-date: "2018-06-28T00:00:00+01:00"
+date: "2026-09-01T00:00:00+01:00"
 draft: false
 share: false
 commentable: false
@@ -13,10 +13,7 @@ header:
 ---
 ## Comité organisateur
 
-Julia Bullard<br>
-Melissa Nelson<br>
-Cameron Pierson<br>
-Lisa Nathan<br>
+- Anton Ninkov, UdeM
 
 
 ## Contactez-nous
