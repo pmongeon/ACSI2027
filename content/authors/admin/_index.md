@@ -25,12 +25,12 @@ social:
   
 ---
 
-
+# Aux frontières : 55e congrès annuel de l'Association canadienne des sciences de l'information  
 ## Bienvenue au congrès de l'ACSI 2027
 
-L'Association canadienne des sciences de l'information (ACSI/ACSI) invite les participants à soumettre leurs propositions pour sa 55e conférence annuelle, qui se tiendra du xx au xx juin 2027. La conférence sera gratuite et ouverte à tous, en ligne, et sera organisée par l'Université de Montréal.
+L'Association canadienne des sciences de l'information (ACSI/CAIS) a le plaisir d'annoncer la tenue de son 55e congrès annuel, qui se déroulera en format hybride à l'École de bibliothéconomie et des sciences de l'information (EBSI) de l'Université de Montréal, à Montréal (Québec), du 1er au <strong>3 juin 2027</strong>.  
+Nous avons hâte de vous accueillir à Montréal!  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla imperdiet quis nulla in tempor. Donec venenatis, ex vitae vulputate pulvinar, ligula quam auctor neque, quis varius felis risus eu nibh. Aenean mauris nulla, laoreet vitae malesuada ac, dictum id nisi. Vivamus vestibulum nunc et tellus dapibus faucibus. In pulvinar sapien ligula, ut facilisis eros tempor at. Nam aliquam metus felis, vel egestas quam cursus et. Aliquam erat volutpat. Cras luctus nibh a dolor tempus, nec porttitor quam rhoncus. Mauris interdum id magna pellentesque maximus. Nam ut imperdiet risus. Vestibulum ut tellus non tortor sagittis interdum. Etiam semper quam felis, at egestas eros ultrices ac. Vivamus rhoncus justo et tellus pulvinar sodales. Nunc purus ante, posuere in eros quis, tincidunt laoreet nisi. 
 
 Comme l’ACSI cherche à être un lieu d’échange pour les sciences de l'information à travers le Canada, notre conférence annuelle développe et soutient la recherche dans les domaines suivants :
 ●	Recherche d'informations et comportement informationnel
@@ -47,18 +47,31 @@ Les perspectives diverses (théoriques ou appliquées) ainsi que les méthodolog
 
 
 ### Les prix CAIS/ACSI 
-Chaque année, les prix CAIS/ACSI récompensent des travaux exceptionnels issus de la recherche de maîtrise, des leaders émergents, des thèses de doctorat, des réalisations de carrière et des communications de conférences. Les nominations sont maintenant ouvertes! Veuillez consulter la [page des prix CAIS-ACSI](https://cais-acsi.ca/Awards) pour plus d'informations. **La date limite est le mercredi 8 avril à minuit, heure normale de l'Est (HNE)**
+Chaque année, les prix CAIS/ACSI récompensent des travaux exceptionnels issus de la recherche de maîtrise, des leaders émergents, des thèses de doctorat, des réalisations de carrière et des communications de conférences. Les nominations sont maintenant ouvertes! Veuillez consulter la [page des prix CAIS-ACSI](https://cais-acsi.ca/Awards) pour plus d'informations.
 
 ## Dates importantes
-- Date limite de soumission : <strong>31 janvier</strong>
-- Date limite pour les évaluations par les pairs : 1er mars
-- Notification aux auteurs : 23 mars
-- Date limite des candidatures pour le forum étudiant : 31 mars
-- Date limite pour les soumissions finales : 11 mai
+
+- Date limite de soumission : <strong>8 janvier 2027</strong>  
+- Date limite pour les évaluations par les pairs : 28 février 2027  
+- Notification aux auteurs : mi-mars 2027  
+- Date limite des candidatures au Forum de recherche étudiant : fin mars 2027  
+- Date limite pour les soumissions finales : fin d'avril 2027  
+- Congrès : du 1er au 3 juin 2027  
+
 
 
 ## Comité organisateur
-Anton Ninkov, UdeM
+Anton Boudreau Ninkov (Université de Montréal) 
+Fatou Bah (University of Ottawa) 
+Claire Burrows (McGill University) 
+Sarah Cameron-Pesant (Université de Montréal) 
+Lucia Céspedes (Université de Montréal, Érudit) 
+Lubna Daraz (Université de Montréal) 
+Samuel Desnoyers (Université de Montréal) 
+Christine Dufour (Université de Montréal) 
+Constance Poitras (Université de Montréal) 
+Adrien Savard-Arseneault (Université de Montréal) 
+Adelaide Tracey (SUNY Upstate) 
 
 
 Pour plus d’informations, contactez-nous à l’adresse suivante : <a href=“mailto:conference@cais-acsi.ca”>conference@cais-acsi.ca</a>.
