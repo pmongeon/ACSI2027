@@ -15,43 +15,63 @@ header:
 
 ## Appels à contributions
 
-L'Association canadienne des sciences de l'information (ACSI/ACSI) invite les participants à soumettre leurs propositions pour sa 55e conférence annuelle, qui se tiendra du [xx au xx ] juin 2026. La conférence sera gratuite et ouverte à tous, en ligne, et sera organisée par l'Université de Montréal.
+Les frontières ne sont pas que des limites : elles sont aussi des lieux de contacts et de compromis, qui favorisent l'émergence d'idées nouvelles. C'est souvent aux frontières des sciences de l'information que se façonnent les travaux les plus déterminants du domaine.  
+Dans le cadre de son 55e congrès annuel, l'ACSI/CAIS invite la communauté à se pencher sur ces espaces liminaires. 
+<br>
+Qu'est-ce qui se perd lorsque les frontières se durcissent ? Qu'est-ce qui devient possible lorsqu'elles sont franchies, brouillées ou redessinées ?  
 <br>
 <br>
-Le thème de cette année...
-Comme l’ACSI cherche à être un lieu d’échange pour les sciences de l'information à travers le Canada, notre conférence annuelle développe et soutient la recherche dans les domaines suivants :
-- Recherche d'informations et comportement informationnel
-- Littératie informationnelle et formation
-- Gestion et organisation des connaissances
-- Technologies et systèmes d'information
-- Médias sociaux
-- Bibliométrie et communication savante
-- Politique et éthique de l'information
-- Patrimoine culturel et préservation
-- Gestion de l'information sur la santé
-- Diversité, équité et inclusion dans les sciences de l'information<br>
-Les perspectives diverses (théoriques ou appliquées) ainsi que les méthodologies variées et innovantes sont les bienvenues.
+Nous accueillons des contributions qui explorent le thème des frontières à partir d'une multiplicité de points de vue, notamment, mais sans s'y limiter :  
+   
+- les frontières disciplinaires et les objets-frontières ;  
+- les communautés et les savoirs situés en marge des infrastructures informationnelles dominantes ;  
+- les seuils d'accès, d'inclusion et d'exclusion ;  
+- les pratiques professionnelles hybrides et interstitielles, ainsi que les frontières mouvantes des professions de l'information elles-mêmes ;  
+- les frontières du document : ce qui fait document, archive ou donnée ;  
+- les frontières algorithmiques et celles de l'IA dans la production et l'organisation des connaissances ;  
+- les frontières temporelles, ces seuils où l'information passe de la préservation à la perte, ou de la mémoire à l'oubli ;  
+- les frontières géopolitiques et linguistiques, et les savoirs qui existent en marge des langues dominantes et des infrastructures du Nord global ;  
+- les frontières méthodologiques, là où les approches hybrides et émergentes résistent à une catégorisation disciplinaire aisée.  
+<br>
+Nous invitons autant les personnes qui étudient les frontières que celles qui y œuvrent.  
+Bien que nous recevions avec enthousiasme les propositions en lien avec la thématique de cette année, l'ACSI/CAIS continue d'accueillir des contributions portant sur l'ensemble des champs des sciences de l'information, notamment :  
 
+- la recherche d'information et le comportement informationnel ;  
+- la culture informationnelle et la formation ;  
+- la gestion et l'organisation des connaissances ;  
+- les technologies et systèmes d'information ;  
+- les médias sociaux ;  
+- la bibliométrie et la communication savante ;  
+- les politiques et l'éthique de l'information ;  
+- le patrimoine culturel et la préservation ;  
+- la gestion de l'information en santé ;  
+- la diversité, l'équité et l'inclusion en sciences de l'information.  
+
+Les perspectives variées et novatrices, théoriques comme appliquées, ainsi que la pluralité des approches méthodologiques sont les bienvenues.  
 
 ## Types de contributions
 
-L’ACSI accueille les propositions d'articles, de présentations éclair ou de panels axés sur la recherche empirique, théorique et pratique. Les propositions peuvent être soumises en anglais ou en français. Toutes les propositions seront soumises à un examen par les pairs. Les articles et les présentations éclair doivent être anonymisés pour la soumission ; les soumissions de panels doivent inclure des informations d'identification.
+- <strong>Article :</strong> 2000-3000 mots, références non incluses.
+- <strong>Travail en cours :</strong> 1000-2000 mots, références non incluses.
+- <strong>Affiche :</strong> 500-1000 mots, références non incluses.
+- <strong>Panel :</strong> 500-1000 mots, références non incluses.
 
-- <strong>Article</strong> : présentations orales de 20 minutes sur des projets achevés ou bien avancés portant sur des sujets pouvant faire l'objet d'une publication dans des revues scientifiques. Les propositions rendant compte de recherches achevées ou en cours seront privilégiées. Les perspectives diverses (théoriques ou appliquées) ainsi que les méthodologies variées et innovantes sont les bienvenues. Les propositions doivent prendre la forme d'un résumé détaillé (environ 1 000 à 1 500 mots, références non comprises).
-- <strong>Présentations éclair</strong> : présentations orales de 5 minutes couvrant un seul élément d'un travail en cours ou une nouvelle idée. Les propositions de présentation éclair visant à couvrir l'ensemble d'un projet de recherche ne seront pas acceptées. L'objectif d’une présentation éclair est de lancer une discussion, de recueillir des commentaires sur une idée ou de trouver des collaborateurs. Les propositions doivent prendre la forme d'un résumé de 250 mots (hors références).
-- <strong>Panels</strong> : présentations orales de 90 minutes par trois auteurs ou plus sur des domaines émergents, des tendances ou des points de vue contrastés, incluant un temps pour les questions ou la discussion. Les panels sont l'occasion d'engager une discussion sur des préoccupations communes, y compris celles qui ne sont pas abordées dans les recherches achevées ou qui ne sont pas encore suffisamment reconnues. Les propositions ne doivent pas se limiter à une série de présentations d'articles connexes ; nous encourageons les propositions qui offrent des occasions créatives et uniques d'engagement et de discussion avec le public dans le cadre de la session de panel. Nous recommandons trois à cinq panélistes plus un modérateur ; il sera possible de modifier la liste des panélistes après acceptation. Les propositions doivent prendre la forme d'un résumé détaillé (environ 1 000 à 1 500 mots, hors références), qui identifie le sujet à discuter, donne un aperçu de la structure du panel et inclut les qualifications et contributions pertinentes de chaque panéliste participant.
 
 ## Soumissions 
-Veuillez utiliser [le modèle de soumission](https://github.com/pmongeon/CAIS2026/blob/140b40806c217adf8a7884fa8188422f75eb4690/content/CAIS2026_template.docx) (en anglais) pour préparer votre soumission. Ensuite, soumettez via notre [OJS portal](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions).
+Veuillez utiliser [le modèle de soumission](https://github.com/pmongeon/ACSI2027/blob/ae5310f9384fdea687b4a0afafea2f4d9285f5ea/ACSI2027_mod%C3%A8le.docx) (en anglais) pour préparer votre soumission. Ensuite, soumettez via notre [OJS portal](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions).
 
 ## Forum des étudiants
 
-Nous sommes heureux d'inviter les étudiants à la maîtrise ou au doctorat, quel que soit le stade de leur programme, au Forum de recherche étudiante de l'ACSI. Ce forum a pour objectif de permettre aux étudiants des cycles supérieurs de discuter de leurs projets de recherche, d'obtenir des commentaires et d'échanger avec d'autres étudiants. Préparez-vous à présenter de manière informelle un aspect de votre recherche pendant 5 à 10 minutes. Pour participer, veuillez remplir [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLScj0ug404Kj7ahbgQZ8Lfpc7ICx-qoyIgJ21IsOlKBMxxcuDQ/viewform).
+Nous sommes heureux d’inviter les étudiants de maîtrise et de doctorat à n’importe quel stade de leur programme au forum des étudiants de l’ACSI. Le forum vise à permettre aux étudiants de discuter de leurs projets de recherche, d’obtenir de la rétroaction et de tisser des liens. Veuillez être prêts à présenter de manière informelle un aspect de votre recherche pendant 5 à 10 minutes. Plus d’informations sur la participation au Forum seront fournies lors de l’ouverture des inscriptions en mars.
 
 
 ## Dates importantes 
 
-- Date limite de soumission : <strong>31 janvier</strong>
-- Date limite pour les évaluations par les pairs : 1er mars
-- Notification aux auteurs : 23 mars
-- Date limite pour les soumissions finales : 11 mai
+- Date limite de soumission : 8 janvier 2027  
+- Date limite pour les évaluations par les pairs : 28 février 2027  
+- Notification aux auteurs : mi-mars 2027  
+- Date limite des candidatures au Forum de recherche étudiant : fin mars 2027
+- Date limite pour les soumissions finales : fin d'avril 2027  
+- Congrès : du 1er au 3 juin 2027  
+
+
