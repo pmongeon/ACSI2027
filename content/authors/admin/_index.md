@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 	
+title: 	"Aux frontières : 55e congrès annuel de l'Association canadienne des sciences de l'information"
 avatar_filename: avatar.jpg
 
 # Username (this should match the folder name)
@@ -23,9 +23,13 @@ social:
 #  icon_pack: fab
 #  link: https://twitter.com/cais_acsi
   
+# Optional header image (relative to 'static/img/')
+header:
+    caption:""
+    image: "Cais2027_homepage_image_fr.jpg"
+    
 ---
 
-# Aux frontières : 55e congrès annuel de l'Association canadienne des sciences de l'information  
 ## Bienvenue au congrès de l'ACSI 2027
 
 L'Association canadienne des sciences de l'information (ACSI/CAIS) a le plaisir d'annoncer la tenue de son 55e congrès annuel, qui se déroulera en format hybride à l'École de bibliothéconomie et des sciences de l'information (EBSI) de l'Université de Montréal, à Montréal (Québec), du 1er au <strong>3 juin 2027</strong>.  
