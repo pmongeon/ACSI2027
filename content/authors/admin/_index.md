@@ -26,7 +26,7 @@ social:
 # Optional header image (relative to 'static/img/')
 header:
     caption:""
-    image: "Cais2027_homepage_image_fr.jpg"
+    image: "static/img/Cais2027_homepage_image_fr.jpg"
     
 ---
 
