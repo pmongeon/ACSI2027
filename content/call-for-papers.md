@@ -58,7 +58,7 @@ Les perspectives variées et novatrices, théoriques comme appliquées, ainsi qu
 
 
 ## Soumissions 
-Veuillez utiliser [le modèle de soumission](https://github.com/pmongeon/ACSI2027/blob/ae5310f9384fdea687b4a0afafea2f4d9285f5ea/ACSI2027_mod%C3%A8le.docx) (en anglais) pour préparer votre soumission. Ensuite, soumettez via notre [OJS portal](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions).
+Veuillez utiliser [le modèle de soumission](https://github.com/pmongeon/CAIS2027/blob/main/CAIS2027_template.docx) (en anglais) pour préparer votre soumission. Ensuite, soumettez via notre [OJS portal](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions).
 
 ## Forum des étudiants
 
