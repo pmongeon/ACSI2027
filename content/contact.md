@@ -29,4 +29,4 @@ header:
 
 ## Contactez-nous
 
-For more information, contact us at <a href=mailto:conference@cais-acsi.ca>conference@cais-acsi.ca</a>.
+Pour plus d'informations, veuillez nous contacter à l'adresse suivante : <a href=mailto:conference@cais-acsi.ca>conference@cais-acsi.ca</a>.
