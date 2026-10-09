@@ -12,7 +12,7 @@ header:
   image: ""
 ---
 
-## Appels à contributions
+## Appel à contributions
 
 Les frontières ne sont pas que des limites : elles sont aussi des lieux de contacts et de compromis, qui favorisent l'émergence d'idées nouvelles. C'est souvent aux frontières des sciences de l'information que se façonnent les travaux les plus déterminants du domaine.
 
@@ -58,7 +58,7 @@ Les perspectives variées et novatrices, théoriques comme appliquées, ainsi qu
 
 ## Soumissions
 
-Veuillez utiliser [le modèle de soumission](https://acsi2025.netlify.app/ACSI2025_mod%C3%A8le.docx) (en français) pour préparer votre soumission. Ensuite, soumettez via notre [OJS portal](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions).
+Veuillez utiliser [le modèle de soumission](https://acsi2025.netlify.app/ACSI2025_mod%C3%A8le.docx) (en français) pour préparer votre soumission. Ensuite, soumettez via notre [portail OJS](https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions).
 
 ## Forum des étudiants
 
