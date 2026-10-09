@@ -47,9 +47,9 @@ Montréal (Québec) H3T 1N8
 
 <strong>Depuis l'aéroport </strong>: L'aéroport Montréal-Trudeau (YUL) se trouve à environ 20 à 30 minutes du campus en voiture ou en taxi. En transport en commun, la ligne d'autobus 747 dessert la station de métro Lionel-Groulx en 30 à 35 minutes environ. Depuis Lionel-Groulx, prenez la ligne orange (ligne 2) en direction Côte-Vertu, puis changez pour la ligne bleue (ligne 5) à Snowdon, en direction Saint-Michel. Le tarif du 747 est de 11,25 $ et sert de laissez-passer de 24 heures pour le bus, le métro et le REM dans la zone A. Consultez stm.info pour les horaires et parcours à jour.
 
-[Tourisme Montréal](https://www.mtl.org/en)
+[Tourisme Montréal](https://www.mtl.org/fr)
 
-[STM](https://www.mtl.org/en/what-to-do/city/747-aeroport-p-e-trudeau-centre-ville)
+[STM](https://www.mtl.org/fr/quoi-faire/la-ville/747-aeroport-p-e-trudeau-centre-ville)
 
 ## Hébergement
 
