@@ -52,7 +52,7 @@ Les perspectives diverses (théoriques ou appliquées) ainsi que les méthodolog
 
 ### Les prix CAIS/ACSI
 
-Chaque année, les prix CAIS/ACSI récompensent des travaux exceptionnels issus de la recherche de maîtrise, des leaders émergents, des thèses de doctorat, des réalisations de carrière et des communications de conférences. Les nominations sont maintenant ouvertes! Veuillez consulter la [page des prix CAIS-ACSI](https://cais-acsi.ca/Awards) pour plus d'informations.
+Chaque année, les prix CAIS/ACSI récompensent des travaux exceptionnels issus de la recherche de maîtrise, des leaders émergents, des thèses de doctorat, des réalisations de carrière et des communications de conférences. Les nominations sont maintenant ouvertes! Veuillez consulter la [page des prix CAIS-ACSI](https://cais-acsi.ca/Awards?watm-french) pour plus d'informations.
 
 ## Dates importantes
 
