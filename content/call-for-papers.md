@@ -51,7 +51,7 @@ Les perspectives variées et novatrices, théoriques comme appliquées, ainsi qu
 
 ## Types de contributions
 
-- <strong>Article ((projets achevés ou bien avancés)):</strong> 2000-3000 mots, références non incluses.
+- <strong>Article ((projets achevés ou bien avancés):</strong> 2000-3000 mots, références non incluses.
 - <strong>Exposé éclair (nouvelle idée ou travail en cours):</strong> 1000-2000 mots, références non incluses.
 - <strong>Affiche (résumé visuel présenté en personne):</strong> 500-1000 mots, références non incluses.
 - <strong>Panel (présentation suivie d'une séance de questions-réponses) :</strong> 500-1000 mots, références non incluses.
