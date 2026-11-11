@@ -44,7 +44,7 @@ Bien que nous recevions avec enthousiasme les propositions en lien avec la thém
 - la bibliométrie et la communication savante ;
 - les politiques et l'éthique de l'information ;
 - le patrimoine culturel et la préservation ;
-- la gestion de l'information en santé ;
+- la science de l’information en santé;
 - la diversité, l'équité et l'inclusion en sciences de l'information.
 
 Les perspectives variées et novatrices, théoriques comme appliquées, ainsi que la pluralité des approches méthodologiques sont les bienvenues.
